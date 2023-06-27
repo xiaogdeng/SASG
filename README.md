@@ -52,7 +52,7 @@ optional arguments:
                         and mnist datasets can be downloaded automatically by
                         torchvision.datasets.
   --optimizer_reducer {SASGReducer,LASGReducer,TopKReducer,ExactReducer}
-  Corresponding four algorithms: sasg, lasg, sparse, sgd
+    Corresponding to four algorithms: sasg, lasg, sparse, sgd
 ```
 
 
