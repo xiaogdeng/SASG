@@ -1,0 +1,2952 @@
+start ****************************************************************************************************
+Using device:  cuda
+SASG  lr:0.005--h:0.01--epoch:20--worker:10--seed:1
+Number_parameter: 4
+Element_parameter: 407050
+Element_parameter_sparse: 4071
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.3863
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.0800
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.1172
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.0384
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.1796
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.1982
+epoch 1, skip_num 1884, loss 0.3816, train acc 89.520%, test acc 93.740%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.0229
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.0271
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.0459
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.0603
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.1335
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.2164
+epoch 2, skip_num 2694, loss 0.1758, train acc 95.168%, test acc 96.150%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.0942
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.0741
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.0047
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.1520
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.0424
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0297
+epoch 3, skip_num 3040, loss 0.1227, train acc 96.667%, test acc 96.880%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.1072
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0270
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.0159
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.1504
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.0127
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0315
+epoch 4, skip_num 3266, loss 0.0939, train acc 97.420%, test acc 97.200%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0181
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0671
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.0045
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0153
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.0030
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.0125
+epoch 5, skip_num 3388, loss 0.0758, train acc 98.042%, test acc 97.390%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.3026
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0065
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0792
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0894
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.0148
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.0075
+epoch 6, skip_num 3611, loss 0.0616, train acc 98.403%, test acc 97.720%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0260
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0083
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0231
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.0223
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.0036
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.0035
+epoch 7, skip_num 3681, loss 0.0517, train acc 98.618%, test acc 97.720%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.2139
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.0285
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0156
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.0068
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.0336
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.0065
+epoch 8, skip_num 3819, loss 0.0432, train acc 98.910%, test acc 97.900%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0530
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.0011
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0315
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.0759
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0052
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.0097
+epoch 9, skip_num 3870, loss 0.0373, train acc 99.060%, test acc 97.730%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0009
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.0094
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.1967
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.1873
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0042
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.0009
+epoch 10, skip_num 4047, loss 0.0309, train acc 99.277%, test acc 97.710%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0009
+****************************************************************************************************
+Iter_num: 6100 Test_acc 98.02 Skip_round: 33971 Comm_round: 27029
+****************************************************************************************************
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.0035
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0017
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0276
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0502
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0015
+epoch 11, skip_num 4082, loss 0.0265, train acc 99.445%, test acc 97.960%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0036
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0135
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0019
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0333
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0025
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0037
+epoch 12, skip_num 4190, loss 0.0221, train acc 99.560%, test acc 97.900%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0013
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0036
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0032
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0019
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0038
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0010
+epoch 13, skip_num 4288, loss 0.0193, train acc 99.622%, test acc 97.980%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0019
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0077
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0010
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0049
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0001
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.0167
+epoch 14, skip_num 4371, loss 0.0161, train acc 99.753%, test acc 98.190%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0003
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0010
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0083
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.1020
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.0028
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0067
+epoch 15, skip_num 4421, loss 0.0139, train acc 99.795%, test acc 98.060%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0556
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0008
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0013
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0063
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0002
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0006
+epoch 16, skip_num 4512, loss 0.0116, train acc 99.858%, test acc 98.100%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0066
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0107
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0022
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0006
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0260
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0197
+epoch 17, skip_num 4572, loss 0.0100, train acc 99.873%, test acc 98.050%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0012
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0001
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0005
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0069
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0003
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0030
+epoch 18, skip_num 4672, loss 0.0085, train acc 99.925%, test acc 98.220%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0023
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0003
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0076
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0003
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0019
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0006
+epoch 19, skip_num 4724, loss 0.0069, train acc 99.947%, test acc 98.130%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0001
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0046
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0003
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0003
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0002
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0015
+epoch 20, skip_num 4763, loss 0.0063, train acc 99.953%, test acc 98.060%
+Finished.
+LASG  lr:0.005--epoch:20--worker:10--seed:1
+Number_parameter: 4
+Element_parameter: 407050
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.3266
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.0645
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.1035
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.0358
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.1332
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.1924
+epoch 1, skip_num 279, loss 0.3645, train acc 90.008%, test acc 93.630%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.0295
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.0216
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.0824
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.0504
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.1453
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.2375
+epoch 2, skip_num 1035, loss 0.1815, train acc 94.908%, test acc 95.830%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.0908
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.0448
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.0033
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.1763
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.0365
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0265
+epoch 3, skip_num 1544, loss 0.1292, train acc 96.428%, test acc 96.680%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.1529
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0285
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.0125
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.0624
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.0123
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0302
+epoch 4, skip_num 1929, loss 0.1002, train acc 97.267%, test acc 96.980%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0257
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0330
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.0042
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0168
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.0028
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.0069
+epoch 5, skip_num 2226, loss 0.0812, train acc 97.822%, test acc 97.330%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.3234
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0033
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0779
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0572
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.0170
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.0070
+epoch 6, skip_num 2478, loss 0.0675, train acc 98.152%, test acc 97.490%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0168
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0072
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0306
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.0216
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.0040
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.0154
+epoch 7, skip_num 2634, loss 0.0566, train acc 98.488%, test acc 97.590%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.2250
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.0506
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0229
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.0100
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.0214
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.0049
+epoch 8, skip_num 2793, loss 0.0484, train acc 98.692%, test acc 97.740%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0958
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.0009
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0728
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.0858
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0047
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.0136
+epoch 9, skip_num 2948, loss 0.0423, train acc 98.900%, test acc 97.960%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0007
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.0134
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.3282
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.0783
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0020
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.0012
+epoch 10, skip_num 3095, loss 0.0357, train acc 99.095%, test acc 97.960%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0011
+****************************************************************************************************
+Iter_num: 6100 Test_acc 98.00999999999999 Skip_round: 21480 Comm_round: 39520
+****************************************************************************************************
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.0020
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0043
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0104
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0457
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0018
+epoch 11, skip_num 3198, loss 0.0305, train acc 99.263%, test acc 98.020%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0091
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0111
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0025
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0285
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0016
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0008
+epoch 12, skip_num 3340, loss 0.0262, train acc 99.443%, test acc 97.970%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0016
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0144
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0066
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0064
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0140
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0011
+epoch 13, skip_num 3467, loss 0.0233, train acc 99.487%, test acc 97.900%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0043
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0085
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0015
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0095
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0002
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.0295
+epoch 14, skip_num 3537, loss 0.0203, train acc 99.563%, test acc 98.090%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0059
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0027
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0081
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0735
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.0022
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0046
+epoch 15, skip_num 3664, loss 0.0173, train acc 99.678%, test acc 97.920%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0675
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0002
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0017
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0182
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0004
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0022
+epoch 16, skip_num 3778, loss 0.0148, train acc 99.753%, test acc 98.080%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0129
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0989
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0052
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0008
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0904
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0733
+epoch 17, skip_num 3823, loss 0.0128, train acc 99.825%, test acc 97.890%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0009
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0002
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0009
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0028
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0005
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0071
+epoch 18, skip_num 3911, loss 0.0119, train acc 99.800%, test acc 98.050%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0018
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0009
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0354
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0003
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0025
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0025
+epoch 19, skip_num 4034, loss 0.0095, train acc 99.893%, test acc 97.860%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0003
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0054
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0003
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0004
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0004
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0197
+epoch 20, skip_num 4083, loss 0.0086, train acc 99.900%, test acc 97.950%
+Finished.
+Sparse  lr:0.005--h:0.01--epoch:20--worker:10--seed:1
+Number_parameter: 4
+Element_parameter: 407050
+Element_parameter_sparse: 4071
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.1956
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.1886
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.2579
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.2040
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.0190
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.0820
+epoch 1, loss 0.3859, train acc 89.400%, test acc 93.910%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.1077
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.0185
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.2118
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.2225
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.1258
+Epoch: 002/020 | Batch 0600/0600 | Cost: 1.0245
+epoch 2, loss 0.1875, train acc 94.680%, test acc 95.560%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.0791
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.0183
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.7637
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.2374
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.0263
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0846
+epoch 3, loss 0.1357, train acc 96.247%, test acc 96.450%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.0219
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0484
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.1503
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.0889
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.0213
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.1630
+epoch 4, loss 0.1069, train acc 97.045%, test acc 96.830%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0198
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0175
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.0025
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0530
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.0176
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.0530
+epoch 5, loss 0.0880, train acc 97.655%, test acc 97.240%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.0056
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0979
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0295
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0498
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.0295
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.0959
+epoch 6, loss 0.0745, train acc 97.927%, test acc 97.510%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0695
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0054
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0059
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.0451
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.1501
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.0090
+epoch 7, loss 0.0634, train acc 98.295%, test acc 97.640%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0173
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.0007
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.1491
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.0093
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.0077
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.2937
+epoch 8, loss 0.0554, train acc 98.498%, test acc 97.640%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0039
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.0375
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0226
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.0273
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0024
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.0347
+epoch 9, loss 0.0488, train acc 98.722%, test acc 97.770%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.1115
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.0027
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0023
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.1344
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0013
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.3554
+epoch 10, loss 0.0431, train acc 98.890%, test acc 97.950%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0187
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.0149
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0024
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0120
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.1844
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0164
+epoch 11, loss 0.0382, train acc 99.065%, test acc 97.860%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0052
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0757
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0584
+****************************************************************************************************
+Iter_num: 6900 Test_acc 98.05 Comm_round: 69000
+****************************************************************************************************
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0223
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0234
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0130
+epoch 12, loss 0.0342, train acc 99.148%, test acc 97.980%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0141
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0064
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0126
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0066
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0282
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0137
+epoch 13, loss 0.0305, train acc 99.310%, test acc 97.990%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0179
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0497
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.1455
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0777
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0322
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.0307
+epoch 14, loss 0.0273, train acc 99.382%, test acc 97.920%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0040
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0102
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0100
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0081
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.0952
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0656
+epoch 15, loss 0.0249, train acc 99.457%, test acc 98.040%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0076
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0237
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0057
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0035
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0008
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0011
+epoch 16, loss 0.0224, train acc 99.557%, test acc 98.100%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0229
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0014
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0768
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0260
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0311
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0386
+epoch 17, loss 0.0204, train acc 99.637%, test acc 98.030%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0164
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0017
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0010
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0613
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0008
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0076
+epoch 18, loss 0.0185, train acc 99.685%, test acc 97.950%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0044
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0111
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0130
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0004
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0060
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0488
+epoch 19, loss 0.0169, train acc 99.752%, test acc 98.170%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0484
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0023
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0227
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0012
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0007
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0111
+epoch 20, loss 0.0154, train acc 99.782%, test acc 98.100%
+Finished.
+Dis-SGD  lr:0.005--epoch:20--worker:10--seed:1
+Number_parameter: 4
+Element_parameter: 407050
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.2157
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.2014
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.2941
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.2153
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.0178
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.0977
+epoch 1, loss 0.3641, train acc 90.165%, test acc 94.120%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.1120
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.0165
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.2208
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.2163
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.1334
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.9689
+epoch 2, loss 0.1843, train acc 94.807%, test acc 95.410%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.0805
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.0199
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.7230
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.2624
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.0249
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0711
+epoch 3, loss 0.1340, train acc 96.210%, test acc 96.560%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.0229
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0513
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.1246
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.0653
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.0207
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.1669
+epoch 4, loss 0.1053, train acc 97.057%, test acc 96.890%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0220
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0175
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.0026
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0484
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.0155
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.0567
+epoch 5, loss 0.0868, train acc 97.652%, test acc 97.210%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.0061
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0855
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0285
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0565
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.0289
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.1060
+epoch 6, loss 0.0737, train acc 97.933%, test acc 97.520%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0816
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0061
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0052
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.0474
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.1794
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.0086
+epoch 7, loss 0.0628, train acc 98.300%, test acc 97.600%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0120
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.0008
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.1460
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.0089
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.0075
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.2666
+epoch 8, loss 0.0548, train acc 98.518%, test acc 97.700%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0062
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.0376
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0212
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.0217
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0029
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.0417
+epoch 9, loss 0.0483, train acc 98.733%, test acc 97.710%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.1102
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.0029
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0020
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.1307
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0012
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.3647
+epoch 10, loss 0.0427, train acc 98.892%, test acc 97.860%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0204
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.0153
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0024
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0125
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.1989
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0148
+epoch 11, loss 0.0379, train acc 99.067%, test acc 97.890%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0042
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0856
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0564
+****************************************************************************************************
+Iter_num: 6900 Test_acc 98.06 Comm_round: 69000
+****************************************************************************************************
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0231
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0217
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0113
+epoch 12, loss 0.0338, train acc 99.172%, test acc 97.960%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0128
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0053
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0110
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0065
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0235
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0147
+epoch 13, loss 0.0303, train acc 99.282%, test acc 98.050%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0189
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0394
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.2110
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0707
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0276
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.0231
+epoch 14, loss 0.0272, train acc 99.390%, test acc 98.000%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0040
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0132
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0053
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0093
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.1195
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0716
+epoch 15, loss 0.0246, train acc 99.475%, test acc 98.050%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0074
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0271
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0063
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0026
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0008
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0010
+epoch 16, loss 0.0222, train acc 99.557%, test acc 98.120%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0225
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0017
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0728
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0268
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0268
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0328
+epoch 17, loss 0.0201, train acc 99.660%, test acc 97.970%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0177
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0020
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0008
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0522
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0007
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0086
+epoch 18, loss 0.0184, train acc 99.690%, test acc 98.050%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0039
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0113
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0116
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0004
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0049
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0439
+epoch 19, loss 0.0168, train acc 99.753%, test acc 98.170%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0400
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0025
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0241
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0008
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0008
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0093
+epoch 20, loss 0.0152, train acc 99.788%, test acc 98.090%
+Finished.
+SASG  lr:0.005--h:0.01--epoch:20--worker:10--seed:19
+Number_parameter: 4
+Element_parameter: 407050
+Element_parameter_sparse: 4071
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.5098
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.1999
+Epoch: 001/020 | Batch 0300/0600 | Cost: 1.0359
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.1251
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.3228
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.1056
+epoch 1, skip_num 1898, loss 0.3830, train acc 89.547%, test acc 94.280%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.2439
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.0697
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.1270
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.2429
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.2855
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.0353
+epoch 2, skip_num 2741, loss 0.1762, train acc 95.090%, test acc 96.110%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.0269
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.0356
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.0387
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.1497
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.0625
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0860
+epoch 3, skip_num 3050, loss 0.1235, train acc 96.653%, test acc 96.600%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.0188
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.1243
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.0669
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.2823
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.0578
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0122
+epoch 4, skip_num 3314, loss 0.0943, train acc 97.503%, test acc 97.190%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0114
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0231
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.0154
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0051
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.0581
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.0787
+epoch 5, skip_num 3472, loss 0.0759, train acc 97.982%, test acc 97.550%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.0174
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0134
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0882
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0061
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.0232
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.0468
+epoch 6, skip_num 3643, loss 0.0615, train acc 98.392%, test acc 97.590%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0044
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0127
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0029
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.0230
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.0036
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.0035
+epoch 7, skip_num 3782, loss 0.0518, train acc 98.707%, test acc 97.620%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0181
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.0443
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0142
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.0035
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.0681
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.5130
+epoch 8, skip_num 3863, loss 0.0437, train acc 98.928%, test acc 97.880%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0227
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.0200
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0167
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.0023
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0068
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.0113
+****************************************************************************************************
+Iter_num: 5400 Test_acc 98.00999999999999 Skip_round: 29688 Comm_round: 24312
+****************************************************************************************************
+epoch 9, skip_num 3925, loss 0.0372, train acc 99.165%, test acc 98.010%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0240
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.0205
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0013
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.0036
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0212
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.0274
+epoch 10, skip_num 4026, loss 0.0312, train acc 99.285%, test acc 97.940%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0025
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.0006
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0038
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0405
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0586
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0016
+epoch 11, skip_num 4125, loss 0.0269, train acc 99.405%, test acc 97.790%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0074
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0041
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0063
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0021
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0226
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0003
+epoch 12, skip_num 4210, loss 0.0225, train acc 99.577%, test acc 98.040%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0082
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0795
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0177
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0190
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0075
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0101
+epoch 13, skip_num 4297, loss 0.0191, train acc 99.643%, test acc 97.960%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0070
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0010
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0197
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0029
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0098
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.0783
+epoch 14, skip_num 4343, loss 0.0173, train acc 99.717%, test acc 97.990%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0060
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0169
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0005
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0055
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.0010
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0003
+epoch 15, skip_num 4471, loss 0.0152, train acc 99.710%, test acc 98.070%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0003
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0003
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0011
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0026
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0006
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0062
+epoch 16, skip_num 4500, loss 0.0119, train acc 99.842%, test acc 97.990%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0064
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0018
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0114
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0014
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0308
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0003
+epoch 17, skip_num 4588, loss 0.0103, train acc 99.870%, test acc 98.170%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0528
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0099
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0026
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0005
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0109
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0025
+epoch 18, skip_num 4682, loss 0.0088, train acc 99.908%, test acc 98.130%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0017
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0004
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0048
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0015
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0033
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0122
+epoch 19, skip_num 4712, loss 0.0074, train acc 99.935%, test acc 98.100%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0059
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0017
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0024
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0071
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0111
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0002
+epoch 20, skip_num 4743, loss 0.0069, train acc 99.922%, test acc 98.210%
+Finished.
+LASG  lr:0.005--epoch:20--worker:10--seed:19
+Number_parameter: 4
+Element_parameter: 407050
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.5042
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.1927
+Epoch: 001/020 | Batch 0300/0600 | Cost: 1.0678
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.1410
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.2771
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.1115
+epoch 1, skip_num 339, loss 0.3650, train acc 90.085%, test acc 94.000%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.1800
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.0817
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.1356
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.2938
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.2533
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.0223
+epoch 2, skip_num 1082, loss 0.1816, train acc 94.822%, test acc 95.770%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.0270
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.0283
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.0532
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.1335
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.1200
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0901
+epoch 3, skip_num 1566, loss 0.1297, train acc 96.402%, test acc 96.280%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.0151
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.1326
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.0798
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.2844
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.0388
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0116
+epoch 4, skip_num 1980, loss 0.1001, train acc 97.232%, test acc 97.050%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0112
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0251
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.0221
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0058
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.0987
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.0499
+epoch 5, skip_num 2221, loss 0.0811, train acc 97.770%, test acc 97.060%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.0258
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0120
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0926
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0035
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.0192
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.1591
+epoch 6, skip_num 2473, loss 0.0674, train acc 98.138%, test acc 97.740%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0052
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0177
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0044
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.0472
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.0022
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.0040
+epoch 7, skip_num 2678, loss 0.0567, train acc 98.520%, test acc 97.720%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0247
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.0397
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0118
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.0043
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.0350
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.8371
+epoch 8, skip_num 2846, loss 0.0488, train acc 98.695%, test acc 97.920%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0302
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.0173
+****************************************************************************************************
+Iter_num: 5000 Test_acc 98.00999999999999 Skip_round: 16200 Comm_round: 33800
+****************************************************************************************************
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0461
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.0037
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0066
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.0047
+epoch 9, skip_num 2974, loss 0.0421, train acc 98.935%, test acc 98.050%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0263
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.0167
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0016
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.0056
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0454
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.0523
+epoch 10, skip_num 3115, loss 0.0360, train acc 99.120%, test acc 98.110%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0024
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.0013
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0018
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0566
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.1647
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0080
+epoch 11, skip_num 3253, loss 0.0311, train acc 99.257%, test acc 97.710%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0071
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0056
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0056
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0005
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.1567
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0008
+epoch 12, skip_num 3295, loss 0.0274, train acc 99.355%, test acc 98.020%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0070
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.1523
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0787
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0438
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0118
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0098
+epoch 13, skip_num 3482, loss 0.0232, train acc 99.480%, test acc 97.990%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0120
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0011
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0345
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0032
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0070
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.1577
+epoch 14, skip_num 3583, loss 0.0199, train acc 99.622%, test acc 98.020%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0077
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0088
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0004
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0070
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.0004
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0003
+epoch 15, skip_num 3667, loss 0.0182, train acc 99.653%, test acc 98.130%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0006
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0008
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0013
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0019
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0020
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0018
+epoch 16, skip_num 3758, loss 0.0149, train acc 99.762%, test acc 98.180%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0113
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0029
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0152
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0021
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0135
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0002
+epoch 17, skip_num 3855, loss 0.0128, train acc 99.808%, test acc 98.250%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.1888
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0238
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0046
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0012
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0025
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0062
+epoch 18, skip_num 3973, loss 0.0112, train acc 99.840%, test acc 98.020%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0025
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0500
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0090
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0013
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0201
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0171
+epoch 19, skip_num 3995, loss 0.0102, train acc 99.853%, test acc 98.170%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0129
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0029
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0105
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0030
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0058
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0002
+epoch 20, skip_num 4081, loss 0.0085, train acc 99.920%, test acc 98.150%
+Finished.
+Sparse  lr:0.005--h:0.01--epoch:20--worker:10--seed:19
+Number_parameter: 4
+Element_parameter: 407050
+Element_parameter_sparse: 4071
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.3151
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.5612
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.1105
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.2273
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.1062
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.0479
+epoch 1, loss 0.3872, train acc 89.238%, test acc 93.540%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.1094
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.8365
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.2327
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.0508
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.2459
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.0406
+epoch 2, loss 0.1880, train acc 94.638%, test acc 95.540%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.2483
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.0695
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.1489
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.0049
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.0704
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0398
+epoch 3, loss 0.1372, train acc 96.133%, test acc 96.270%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.0428
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0304
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.0926
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.0256
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.4340
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0900
+epoch 4, loss 0.1079, train acc 96.972%, test acc 96.910%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0573
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0861
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.0142
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0932
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.0033
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.0403
+epoch 5, loss 0.0886, train acc 97.537%, test acc 97.140%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.0249
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0111
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0911
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0056
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.1700
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.0090
+epoch 6, loss 0.0746, train acc 97.897%, test acc 97.490%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0150
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0028
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0022
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.2246
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.0353
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.1257
+epoch 7, loss 0.0642, train acc 98.253%, test acc 97.480%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0123
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.2807
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0291
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.0444
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.1040
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.0318
+epoch 8, loss 0.0559, train acc 98.510%, test acc 97.730%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0514
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.0074
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0285
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.0451
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0211
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.1227
+epoch 9, loss 0.0489, train acc 98.728%, test acc 97.780%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0074
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.0045
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0091
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.0175
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0055
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.1632
+epoch 10, loss 0.0435, train acc 98.907%, test acc 97.880%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0028
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.0089
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0052
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0201
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0076
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0459
+****************************************************************************************************
+Iter_num: 6600 Test_acc 98.04 Comm_round: 66000
+****************************************************************************************************
+epoch 11, loss 0.0386, train acc 99.035%, test acc 98.040%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0008
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0027
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.8643
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0095
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0008
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0077
+epoch 12, loss 0.0345, train acc 99.203%, test acc 98.000%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0091
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0043
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0119
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0196
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0006
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0010
+epoch 13, loss 0.0311, train acc 99.317%, test acc 98.090%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0020
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0066
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0019
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0160
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0005
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.0675
+epoch 14, loss 0.0280, train acc 99.393%, test acc 98.050%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0413
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0090
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0134
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0052
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.0030
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0020
+epoch 15, loss 0.0250, train acc 99.480%, test acc 98.140%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0216
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0691
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0154
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0731
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0043
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0026
+epoch 16, loss 0.0229, train acc 99.538%, test acc 98.100%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0008
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0301
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0595
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0137
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0006
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0007
+epoch 17, loss 0.0208, train acc 99.622%, test acc 98.040%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0244
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0079
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0027
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0007
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0353
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0248
+epoch 18, loss 0.0188, train acc 99.687%, test acc 98.050%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0510
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0078
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0025
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0073
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0231
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0011
+epoch 19, loss 0.0171, train acc 99.735%, test acc 98.120%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0248
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0017
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0029
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0011
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0079
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0004
+epoch 20, loss 0.0156, train acc 99.773%, test acc 98.090%
+Finished.
+Dis-SGD  lr:0.005--epoch:20--worker:10--seed:19
+Number_parameter: 4
+Element_parameter: 407050
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.3610
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.5795
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.0880
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.1717
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.0928
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.0469
+epoch 1, loss 0.3644, train acc 90.003%, test acc 93.660%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.0915
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.8278
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.2243
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.0439
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.2394
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.0303
+epoch 2, loss 0.1842, train acc 94.762%, test acc 95.620%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.2515
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.0670
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.1736
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.0059
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.0667
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0466
+epoch 3, loss 0.1345, train acc 96.192%, test acc 96.370%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.0394
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0296
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.0785
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.0300
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.4285
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0968
+epoch 4, loss 0.1059, train acc 97.023%, test acc 96.960%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0609
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0861
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.0135
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0923
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.0027
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.0603
+epoch 5, loss 0.0873, train acc 97.563%, test acc 97.240%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.0225
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0102
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0855
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0067
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.1547
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.0099
+epoch 6, loss 0.0733, train acc 97.942%, test acc 97.560%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0142
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0027
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0023
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.2152
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.0304
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.1459
+epoch 7, loss 0.0633, train acc 98.258%, test acc 97.510%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0120
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.2666
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0315
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.0457
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.1061
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.0367
+epoch 8, loss 0.0554, train acc 98.480%, test acc 97.690%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0440
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.0073
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0228
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.0430
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0218
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.1234
+epoch 9, loss 0.0483, train acc 98.735%, test acc 97.840%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0080
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.0042
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0076
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.0153
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0069
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.1447
+epoch 10, loss 0.0428, train acc 98.927%, test acc 97.850%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0027
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.0109
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0055
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0181
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0071
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0369
+****************************************************************************************************
+Iter_num: 6600 Test_acc 98.09 Comm_round: 66000
+****************************************************************************************************
+epoch 11, loss 0.0381, train acc 99.040%, test acc 98.090%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0009
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0015
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.8440
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0102
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0009
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0087
+epoch 12, loss 0.0339, train acc 99.222%, test acc 98.020%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0085
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0047
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0110
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0168
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0008
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0009
+epoch 13, loss 0.0305, train acc 99.303%, test acc 98.020%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0029
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0055
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0022
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0191
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0006
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.0928
+epoch 14, loss 0.0276, train acc 99.397%, test acc 98.060%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0448
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0091
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0095
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0056
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.0022
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0020
+epoch 15, loss 0.0247, train acc 99.472%, test acc 98.180%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0233
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0553
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0129
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0526
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0043
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0030
+epoch 16, loss 0.0225, train acc 99.542%, test acc 98.170%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0012
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0259
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0662
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0131
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0006
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0007
+epoch 17, loss 0.0204, train acc 99.640%, test acc 98.080%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0232
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0098
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0027
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0009
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0287
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0215
+epoch 18, loss 0.0185, train acc 99.703%, test acc 98.070%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0418
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0088
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0025
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0070
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0227
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0012
+epoch 19, loss 0.0168, train acc 99.763%, test acc 98.130%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0320
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0012
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0028
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0010
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0079
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0004
+epoch 20, loss 0.0154, train acc 99.783%, test acc 98.180%
+Finished.
+SASG  lr:0.005--h:0.01--epoch:20--worker:10--seed:31
+Number_parameter: 4
+Element_parameter: 407050
+Element_parameter_sparse: 4071
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.9172
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.2205
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.0087
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.0408
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.1323
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.0361
+epoch 1, skip_num 1851, loss 0.3787, train acc 89.655%, test acc 94.230%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.0191
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.1438
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.0951
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.0329
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.0271
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.0935
+epoch 2, skip_num 2722, loss 0.1743, train acc 95.260%, test acc 96.260%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.3277
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.2460
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.0476
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.0550
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.1746
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0317
+epoch 3, skip_num 3040, loss 0.1219, train acc 96.748%, test acc 96.970%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.0364
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0236
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.0252
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.0281
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.0111
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0264
+epoch 4, skip_num 3280, loss 0.0928, train acc 97.503%, test acc 97.260%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0634
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0716
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.1016
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0076
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.0290
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.0880
+epoch 5, skip_num 3465, loss 0.0739, train acc 97.998%, test acc 97.200%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.0263
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0279
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0082
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0172
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.2641
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.0449
+epoch 6, skip_num 3628, loss 0.0611, train acc 98.377%, test acc 97.760%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0167
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0596
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0206
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.0103
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.0135
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.0615
+epoch 7, skip_num 3756, loss 0.0511, train acc 98.677%, test acc 97.680%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0019
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.0145
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0730
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.2045
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.0031
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.0017
+epoch 8, skip_num 3839, loss 0.0429, train acc 98.925%, test acc 97.910%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0031
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.2106
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0395
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.0056
+****************************************************************************************************
+Iter_num: 5200 Test_acc 98.05 Skip_round: 28209 Comm_round: 23791
+****************************************************************************************************
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0094
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.0036
+epoch 9, skip_num 3938, loss 0.0364, train acc 99.118%, test acc 98.050%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0684
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.0179
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0230
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.0532
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0061
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.0805
+epoch 10, skip_num 4060, loss 0.0306, train acc 99.317%, test acc 97.870%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0070
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.0031
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0059
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0024
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0171
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0024
+epoch 11, skip_num 4089, loss 0.0266, train acc 99.427%, test acc 97.890%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0343
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0016
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0008
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0071
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0034
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0125
+epoch 12, skip_num 4269, loss 0.0231, train acc 99.537%, test acc 98.100%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0151
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0067
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0010
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0418
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0001
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0025
+epoch 13, skip_num 4293, loss 0.0193, train acc 99.643%, test acc 98.090%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0012
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0081
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0014
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0002
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0022
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.0483
+epoch 14, skip_num 4400, loss 0.0159, train acc 99.737%, test acc 97.920%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0148
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0019
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0002
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0104
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.0024
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0020
+epoch 15, skip_num 4457, loss 0.0137, train acc 99.808%, test acc 97.850%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0012
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0001
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0015
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0021
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0089
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0019
+epoch 16, skip_num 4496, loss 0.0125, train acc 99.798%, test acc 98.160%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0003
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0078
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0011
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0002
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0008
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0017
+epoch 17, skip_num 4565, loss 0.0109, train acc 99.838%, test acc 98.100%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0003
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0005
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0546
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0186
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0024
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0002
+epoch 18, skip_num 4684, loss 0.0086, train acc 99.915%, test acc 98.130%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0012
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0158
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0587
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0066
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0003
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0019
+epoch 19, skip_num 4749, loss 0.0068, train acc 99.947%, test acc 98.030%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0057
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0006
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0141
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0125
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0036
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0047
+epoch 20, skip_num 4774, loss 0.0066, train acc 99.940%, test acc 98.240%
+Finished.
+LASG  lr:0.005--epoch:20--worker:10--seed:31
+Number_parameter: 4
+Element_parameter: 407050
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.9337
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.2582
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.0118
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.0364
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.1022
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.0386
+epoch 1, skip_num 298, loss 0.3623, train acc 90.057%, test acc 94.120%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.0218
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.1795
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.0957
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.0219
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.0298
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.1079
+epoch 2, skip_num 1079, loss 0.1803, train acc 94.950%, test acc 95.800%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.3650
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.3189
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.0428
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.0470
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.1609
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0721
+epoch 3, skip_num 1549, loss 0.1290, train acc 96.458%, test acc 96.670%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.0544
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0251
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.0268
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.0813
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.0165
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0218
+epoch 4, skip_num 1905, loss 0.0999, train acc 97.232%, test acc 97.160%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0970
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0456
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.1138
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0067
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.0491
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.1931
+epoch 5, skip_num 2221, loss 0.0806, train acc 97.777%, test acc 97.310%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.0303
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0318
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0087
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0292
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.2707
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.0780
+epoch 6, skip_num 2488, loss 0.0666, train acc 98.202%, test acc 97.580%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0227
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0535
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0313
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.0087
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.0446
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.0534
+epoch 7, skip_num 2669, loss 0.0561, train acc 98.540%, test acc 97.760%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0018
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.0200
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.1005
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.1343
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.0046
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.0038
+****************************************************************************************************
+Iter_num: 4800 Test_acc 98.03 Skip_round: 15039 Comm_round: 32961
+****************************************************************************************************
+epoch 8, skip_num 2830, loss 0.0478, train acc 98.760%, test acc 98.030%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0019
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.1336
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0488
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.0238
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0075
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.0073
+epoch 9, skip_num 2990, loss 0.0404, train acc 98.967%, test acc 97.920%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0632
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.0084
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0395
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.0909
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0041
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.1970
+epoch 10, skip_num 3132, loss 0.0352, train acc 99.128%, test acc 97.970%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0078
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.0050
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0071
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0015
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0170
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0014
+epoch 11, skip_num 3285, loss 0.0303, train acc 99.308%, test acc 97.990%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0227
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0016
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0013
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0112
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0048
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0138
+epoch 12, skip_num 3408, loss 0.0269, train acc 99.427%, test acc 98.010%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0274
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0017
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0021
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0322
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0001
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0020
+epoch 13, skip_num 3447, loss 0.0232, train acc 99.532%, test acc 98.040%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0015
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0167
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0065
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0001
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0061
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.1018
+epoch 14, skip_num 3570, loss 0.0196, train acc 99.593%, test acc 98.170%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0214
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0023
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0009
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0058
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.0010
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0006
+epoch 15, skip_num 3690, loss 0.0170, train acc 99.678%, test acc 98.070%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0096
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0002
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0035
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0016
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0174
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0004
+epoch 16, skip_num 3773, loss 0.0152, train acc 99.708%, test acc 98.130%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0004
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0042
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0002
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0008
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0011
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0055
+epoch 17, skip_num 3880, loss 0.0125, train acc 99.808%, test acc 98.190%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0005
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0005
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0193
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0046
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0009
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0004
+epoch 18, skip_num 4005, loss 0.0104, train acc 99.870%, test acc 98.260%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0013
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0152
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.1183
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0153
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0003
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0024
+epoch 19, skip_num 4058, loss 0.0090, train acc 99.897%, test acc 98.100%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0055
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0002
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0211
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0061
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0125
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0196
+epoch 20, skip_num 4129, loss 0.0075, train acc 99.938%, test acc 98.240%
+Finished.
+Sparse  lr:0.005--h:0.01--epoch:20--worker:10--seed:31
+Number_parameter: 4
+Element_parameter: 407050
+Element_parameter_sparse: 4071
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.8868
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.2137
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.3333
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.2261
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.4450
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.5541
+epoch 1, loss 0.3845, train acc 89.415%, test acc 93.930%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.1208
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.1560
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.0427
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.3368
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.1799
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.2164
+epoch 2, loss 0.1869, train acc 94.693%, test acc 95.670%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.0352
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.0298
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.3599
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.1267
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.0176
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0048
+epoch 3, loss 0.1356, train acc 96.190%, test acc 96.620%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.1638
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0423
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.1077
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.0302
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.0029
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0547
+epoch 4, loss 0.1067, train acc 96.987%, test acc 97.040%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0056
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0299
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.0156
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0029
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.1050
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.1099
+epoch 5, loss 0.0873, train acc 97.545%, test acc 97.190%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.0325
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0137
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0604
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0598
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.1945
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.0329
+epoch 6, loss 0.0736, train acc 97.967%, test acc 97.510%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0078
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0246
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0044
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.0060
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.3911
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.0298
+epoch 7, loss 0.0633, train acc 98.262%, test acc 97.770%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0054
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.0845
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0929
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.0060
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.4164
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.0011
+epoch 8, loss 0.0551, train acc 98.555%, test acc 97.860%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0020
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.0024
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0011
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.1167
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0064
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.5349
+epoch 9, loss 0.0482, train acc 98.802%, test acc 97.970%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0053
+****************************************************************************************************
+Iter_num: 5500 Test_acc 98.05 Comm_round: 55000
+****************************************************************************************************
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.1945
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0054
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.1487
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0845
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.0039
+epoch 10, loss 0.0428, train acc 98.937%, test acc 98.010%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0020
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.0052
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0021
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0070
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0059
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0069
+epoch 11, loss 0.0380, train acc 99.072%, test acc 98.020%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0043
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0087
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0015
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.4411
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0188
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.1064
+epoch 12, loss 0.0339, train acc 99.193%, test acc 97.960%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0769
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0105
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0382
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0075
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0060
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0395
+epoch 13, loss 0.0304, train acc 99.317%, test acc 97.990%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0025
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0376
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0128
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0023
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0023
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.0096
+epoch 14, loss 0.0272, train acc 99.435%, test acc 98.090%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0014
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0025
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0088
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0083
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.2809
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0042
+epoch 15, loss 0.0248, train acc 99.480%, test acc 98.130%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0163
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0078
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0185
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0204
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0049
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0030
+epoch 16, loss 0.0222, train acc 99.553%, test acc 98.020%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0189
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0049
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0004
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0025
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0173
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0097
+epoch 17, loss 0.0202, train acc 99.647%, test acc 98.110%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0027
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0502
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0231
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0423
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0020
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0020
+epoch 18, loss 0.0183, train acc 99.712%, test acc 98.110%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0226
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0002
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0144
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0043
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0218
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0056
+epoch 19, loss 0.0169, train acc 99.745%, test acc 98.100%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0070
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0262
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0018
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0151
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0019
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0018
+epoch 20, loss 0.0153, train acc 99.790%, test acc 98.210%
+Finished.
+Dis-SGD  lr:0.005--epoch:20--worker:10--seed:31
+Number_parameter: 4
+Element_parameter: 407050
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.8381
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.2559
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.4081
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.2504
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.3880
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.5432
+epoch 1, loss 0.3630, train acc 90.032%, test acc 94.080%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.0955
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.1553
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.0385
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.3406
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.1674
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.1818
+epoch 2, loss 0.1826, train acc 94.788%, test acc 95.770%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.0328
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.0277
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.3674
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.1160
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.0196
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0035
+epoch 3, loss 0.1327, train acc 96.277%, test acc 96.760%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.1694
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0358
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.1051
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.0272
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.0027
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0513
+epoch 4, loss 0.1050, train acc 97.025%, test acc 97.070%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0061
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0312
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.0179
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0023
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.1020
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.1069
+epoch 5, loss 0.0858, train acc 97.585%, test acc 97.220%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.0350
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0118
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0623
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0546
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.1957
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.0389
+epoch 6, loss 0.0726, train acc 98.033%, test acc 97.570%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0065
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0231
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0041
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.0061
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.3592
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.0366
+epoch 7, loss 0.0626, train acc 98.298%, test acc 97.710%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0055
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.0762
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0892
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.0058
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.4070
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.0011
+epoch 8, loss 0.0545, train acc 98.592%, test acc 97.840%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0021
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.0024
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0011
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.1255
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0060
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.4936
+epoch 9, loss 0.0477, train acc 98.783%, test acc 97.910%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0053
+****************************************************************************************************
+Iter_num: 5500 Test_acc 98.00999999999999 Comm_round: 55000
+****************************************************************************************************
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.1541
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0046
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.1505
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0725
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.0035
+epoch 10, loss 0.0424, train acc 98.915%, test acc 97.970%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0027
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.0052
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0021
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0056
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0056
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0061
+epoch 11, loss 0.0374, train acc 99.067%, test acc 98.070%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0045
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0071
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0014
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.4342
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0192
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0880
+epoch 12, loss 0.0334, train acc 99.217%, test acc 97.970%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0745
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0084
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0351
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0121
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0053
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0342
+epoch 13, loss 0.0300, train acc 99.313%, test acc 98.020%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0031
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0486
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0196
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0019
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0026
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.0091
+epoch 14, loss 0.0268, train acc 99.433%, test acc 98.070%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0015
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0037
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0053
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0059
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.2644
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0040
+epoch 15, loss 0.0244, train acc 99.467%, test acc 98.070%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0146
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0076
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0174
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0169
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0061
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0046
+epoch 16, loss 0.0219, train acc 99.585%, test acc 98.060%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0162
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0043
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0004
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0022
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0179
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0121
+epoch 17, loss 0.0199, train acc 99.635%, test acc 98.210%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0021
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0525
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0202
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0447
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0018
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0019
+epoch 18, loss 0.0181, train acc 99.718%, test acc 98.060%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0205
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0002
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0175
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0035
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0246
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0062
+epoch 19, loss 0.0167, train acc 99.755%, test acc 98.120%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0071
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0236
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0013
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0162
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0017
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0024
+epoch 20, loss 0.0151, train acc 99.798%, test acc 98.170%
+Finished.
+SASG  lr:0.005--h:0.01--epoch:20--worker:10--seed:44
+Number_parameter: 4
+Element_parameter: 407050
+Element_parameter_sparse: 4071
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.3779
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.1581
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.8055
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.2345
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.1091
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.1317
+epoch 1, skip_num 1825, loss 0.3826, train acc 89.473%, test acc 94.050%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.0662
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.2214
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.0885
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.2990
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.0629
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.1403
+epoch 2, skip_num 2592, loss 0.1791, train acc 95.047%, test acc 96.100%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.0162
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.1667
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.1385
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.5448
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.0503
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0471
+epoch 3, skip_num 3000, loss 0.1243, train acc 96.622%, test acc 96.430%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.0622
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0363
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.3999
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.0417
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.0526
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0241
+epoch 4, skip_num 3267, loss 0.0958, train acc 97.393%, test acc 97.290%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0534
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0392
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.0679
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0503
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.1975
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.3990
+epoch 5, skip_num 3463, loss 0.0760, train acc 97.943%, test acc 97.510%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.1958
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.1527
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0411
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.1165
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.0141
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.2293
+epoch 6, skip_num 3542, loss 0.0618, train acc 98.330%, test acc 97.690%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0119
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0230
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0360
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.0128
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.0840
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.0221
+epoch 7, skip_num 3751, loss 0.0516, train acc 98.685%, test acc 97.810%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0161
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.1845
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0185
+****************************************************************************************************
+Iter_num: 4500 Test_acc 98.04 Skip_round: 23376 Comm_round: 21624
+****************************************************************************************************
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.2777
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.0176
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.0164
+epoch 8, skip_num 3827, loss 0.0440, train acc 98.917%, test acc 97.820%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0150
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.0040
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0072
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.0026
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0245
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.0667
+epoch 9, skip_num 3891, loss 0.0368, train acc 99.113%, test acc 97.830%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0223
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.0097
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0042
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.1816
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0285
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.2324
+epoch 10, skip_num 4009, loss 0.0311, train acc 99.307%, test acc 97.980%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0692
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.0102
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0070
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0288
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0156
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0585
+epoch 11, skip_num 4096, loss 0.0268, train acc 99.413%, test acc 98.060%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0013
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0032
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0032
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0108
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0153
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0013
+epoch 12, skip_num 4212, loss 0.0223, train acc 99.535%, test acc 98.140%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0073
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0237
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0018
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0004
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0006
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0088
+epoch 13, skip_num 4286, loss 0.0188, train acc 99.655%, test acc 98.120%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.3549
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0117
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0011
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.1429
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0069
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.0013
+epoch 14, skip_num 4406, loss 0.0156, train acc 99.757%, test acc 98.300%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0261
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0278
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0007
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0021
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.0004
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0002
+epoch 15, skip_num 4416, loss 0.0147, train acc 99.737%, test acc 98.200%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0044
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0002
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0059
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0007
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0308
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0075
+epoch 16, skip_num 4550, loss 0.0119, train acc 99.822%, test acc 98.010%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0155
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0027
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0103
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0182
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0015
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0015
+epoch 17, skip_num 4564, loss 0.0113, train acc 99.837%, test acc 98.060%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0215
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0106
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0178
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0001
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0096
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0046
+epoch 18, skip_num 4625, loss 0.0088, train acc 99.912%, test acc 98.230%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0018
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0026
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0005
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0021
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0051
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0027
+epoch 19, skip_num 4726, loss 0.0073, train acc 99.933%, test acc 98.270%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0016
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0005
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0004
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0200
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0019
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0100
+epoch 20, skip_num 4728, loss 0.0072, train acc 99.908%, test acc 98.160%
+Finished.
+LASG  lr:0.005--epoch:20--worker:10--seed:44
+Number_parameter: 4
+Element_parameter: 407050
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.4282
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.1795
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.8658
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.3187
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.0789
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.1359
+epoch 1, skip_num 296, loss 0.3646, train acc 89.953%, test acc 94.030%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.0737
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.2474
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.0985
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.2747
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.0421
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.2035
+epoch 2, skip_num 1008, loss 0.1837, train acc 94.738%, test acc 95.810%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.0301
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.1520
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.1373
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.5471
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.0622
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0383
+epoch 3, skip_num 1547, loss 0.1313, train acc 96.305%, test acc 96.650%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.0609
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0491
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.4485
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.0219
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.0713
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0144
+epoch 4, skip_num 1898, loss 0.1013, train acc 97.195%, test acc 97.050%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0807
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0318
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.2106
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0535
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.1268
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.5847
+epoch 5, skip_num 2215, loss 0.0823, train acc 97.727%, test acc 97.630%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.2809
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.2540
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0376
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0981
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.0105
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.3023
+epoch 6, skip_num 2461, loss 0.0679, train acc 98.173%, test acc 97.630%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0129
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0228
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0358
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.0232
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.0454
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.0173
+epoch 7, skip_num 2624, loss 0.0577, train acc 98.468%, test acc 97.500%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0119
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.2750
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0101
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.3581
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.0199
+****************************************************************************************************
+Iter_num: 4700 Test_acc 98.03 Skip_round: 14347 Comm_round: 32653
+****************************************************************************************************
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.0069
+epoch 8, skip_num 2787, loss 0.0490, train acc 98.712%, test acc 97.710%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0101
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.0118
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0081
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.0025
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0264
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.0315
+epoch 9, skip_num 2919, loss 0.0421, train acc 98.930%, test acc 97.970%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0399
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.0040
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0058
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.3024
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0217
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.1968
+epoch 10, skip_num 3103, loss 0.0356, train acc 99.127%, test acc 98.010%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.1336
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.0089
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0032
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0071
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0143
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.1416
+epoch 11, skip_num 3223, loss 0.0306, train acc 99.285%, test acc 98.050%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0011
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0011
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0054
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0219
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0645
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0019
+epoch 12, skip_num 3419, loss 0.0262, train acc 99.408%, test acc 97.990%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0067
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0091
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0035
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0004
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0005
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0048
+epoch 13, skip_num 3421, loss 0.0239, train acc 99.483%, test acc 98.190%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0619
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0200
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0008
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.1775
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0099
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.0045
+epoch 14, skip_num 3580, loss 0.0201, train acc 99.618%, test acc 98.260%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0092
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0260
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0006
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0020
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.0003
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0006
+epoch 15, skip_num 3645, loss 0.0175, train acc 99.657%, test acc 98.160%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0062
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0010
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0105
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0014
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0332
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0047
+epoch 16, skip_num 3772, loss 0.0154, train acc 99.720%, test acc 98.210%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0117
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0020
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0077
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0234
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0050
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0030
+epoch 17, skip_num 3835, loss 0.0130, train acc 99.813%, test acc 98.160%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.2138
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0061
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0955
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0000
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0149
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0050
+epoch 18, skip_num 3881, loss 0.0119, train acc 99.837%, test acc 98.220%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0008
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0012
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0017
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0073
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0062
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0033
+epoch 19, skip_num 3996, loss 0.0099, train acc 99.872%, test acc 98.220%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0043
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0004
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0025
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0117
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0004
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0266
+epoch 20, skip_num 4073, loss 0.0090, train acc 99.885%, test acc 98.010%
+Finished.
+Sparse  lr:0.005--h:0.01--epoch:20--worker:10--seed:44
+Number_parameter: 4
+Element_parameter: 407050
+Element_parameter_sparse: 4071
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.4574
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.2213
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.2749
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.1323
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.3253
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.0657
+epoch 1, loss 0.3867, train acc 89.313%, test acc 93.710%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.0414
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.0634
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.5224
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.3700
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.2522
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.0426
+epoch 2, loss 0.1905, train acc 94.560%, test acc 95.530%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.0503
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.1055
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.5565
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.0737
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.0575
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.1062
+epoch 3, loss 0.1386, train acc 96.120%, test acc 96.360%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.0173
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0603
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.0274
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.0818
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.0045
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0808
+epoch 4, loss 0.1087, train acc 96.977%, test acc 96.940%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.1781
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0093
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.2769
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0030
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.0569
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.0610
+epoch 5, loss 0.0893, train acc 97.530%, test acc 97.300%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.1366
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0125
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.1805
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.2231
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.0056
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.0150
+epoch 6, loss 0.0749, train acc 97.940%, test acc 97.560%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0192
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0138
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0736
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.1608
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.0141
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.0157
+epoch 7, loss 0.0646, train acc 98.228%, test acc 97.750%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0059
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.0182
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0356
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.0059
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.0611
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.0091
+epoch 8, loss 0.0559, train acc 98.502%, test acc 97.760%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0397
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.0192
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0069
+****************************************************************************************************
+Iter_num: 5100 Test_acc 98.02 Comm_round: 51000
+****************************************************************************************************
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.0122
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0443
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.0115
+epoch 9, loss 0.0492, train acc 98.687%, test acc 97.920%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0932
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.0234
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0122
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.0025
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0134
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.1305
+epoch 10, loss 0.0432, train acc 98.912%, test acc 98.050%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0290
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.7381
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.4571
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0211
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0036
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.2340
+epoch 11, loss 0.0386, train acc 99.067%, test acc 97.970%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0631
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0207
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0064
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0147
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0053
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0128
+epoch 12, loss 0.0343, train acc 99.178%, test acc 98.110%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.1653
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0023
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0501
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0106
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0058
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0030
+epoch 13, loss 0.0307, train acc 99.300%, test acc 98.210%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0518
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0013
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0014
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0113
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0188
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.1602
+epoch 14, loss 0.0277, train acc 99.370%, test acc 98.080%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0408
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0050
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0039
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0084
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.0240
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0023
+epoch 15, loss 0.0248, train acc 99.478%, test acc 98.130%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0316
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0100
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0236
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0291
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0463
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0599
+epoch 16, loss 0.0225, train acc 99.575%, test acc 98.210%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0040
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0079
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0113
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0084
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0041
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0091
+epoch 17, loss 0.0205, train acc 99.645%, test acc 98.140%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0012
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0009
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.2032
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0015
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0010
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0797
+epoch 18, loss 0.0187, train acc 99.683%, test acc 98.190%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0224
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0227
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0006
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0448
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0014
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0007
+epoch 19, loss 0.0169, train acc 99.737%, test acc 98.160%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0230
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0596
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0098
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0153
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0103
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0004
+epoch 20, loss 0.0155, train acc 99.773%, test acc 98.230%
+Finished.
+Dis-SGD  lr:0.005--epoch:20--worker:10--seed:44
+Number_parameter: 4
+Element_parameter: 407050
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.4752
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.2413
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.3322
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.1271
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.3047
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.0567
+epoch 1, loss 0.3655, train acc 89.958%, test acc 93.920%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.0396
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.0558
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.5188
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.3780
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.2496
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.0441
+epoch 2, loss 0.1860, train acc 94.723%, test acc 95.620%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.0469
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.1062
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.5489
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.0784
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.0531
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0947
+epoch 3, loss 0.1356, train acc 96.175%, test acc 96.400%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.0185
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0574
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.0288
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.0752
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.0042
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0723
+epoch 4, loss 0.1067, train acc 97.043%, test acc 97.000%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.1790
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0095
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.2517
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0030
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.0573
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.0517
+epoch 5, loss 0.0878, train acc 97.545%, test acc 97.420%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.1116
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0105
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.1517
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.2645
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.0043
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.0144
+epoch 6, loss 0.0736, train acc 97.960%, test acc 97.550%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0331
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0141
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0533
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.1385
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.0109
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.0208
+epoch 7, loss 0.0636, train acc 98.238%, test acc 97.690%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0052
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.0159
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0480
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.0058
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.0511
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.0091
+epoch 8, loss 0.0550, train acc 98.565%, test acc 97.770%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0370
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.0195
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0074
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.0116
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0407
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.0106
+epoch 9, loss 0.0484, train acc 98.740%, test acc 97.880%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0866
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.0241
+****************************************************************************************************
+Iter_num: 5600 Test_acc 98.07000000000001 Comm_round: 56000
+****************************************************************************************************
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0112
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.0024
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0134
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.1198
+epoch 10, loss 0.0426, train acc 98.917%, test acc 98.040%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0279
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.6401
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.4920
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0319
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0042
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.2290
+epoch 11, loss 0.0381, train acc 99.043%, test acc 98.000%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0643
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0198
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0064
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0120
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0045
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0190
+epoch 12, loss 0.0337, train acc 99.197%, test acc 98.080%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.1953
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0022
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0543
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0102
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0065
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0028
+epoch 13, loss 0.0303, train acc 99.313%, test acc 98.170%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0519
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0013
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0013
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0111
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0187
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.1373
+epoch 14, loss 0.0273, train acc 99.402%, test acc 98.090%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0396
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0055
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0030
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0073
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.0203
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0031
+epoch 15, loss 0.0243, train acc 99.490%, test acc 98.140%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0240
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0079
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0192
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0315
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0417
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0544
+epoch 16, loss 0.0222, train acc 99.565%, test acc 98.190%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0045
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0054
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0063
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0083
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0045
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0114
+epoch 17, loss 0.0201, train acc 99.633%, test acc 98.130%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0010
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0010
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.2262
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0014
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0009
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0768
+epoch 18, loss 0.0184, train acc 99.692%, test acc 98.160%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0219
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0167
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0009
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0476
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0012
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0006
+epoch 19, loss 0.0167, train acc 99.753%, test acc 98.170%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0223
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0511
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0089
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0176
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0169
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0003
+epoch 20, loss 0.0153, train acc 99.773%, test acc 98.220%
+Finished.
+SASG  lr:0.005--h:0.01--epoch:20--worker:10--seed:80
+Number_parameter: 4
+Element_parameter: 407050
+Element_parameter_sparse: 4071
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.2612
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.3754
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.1864
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.4366
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.1086
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.2123
+epoch 1, skip_num 1776, loss 0.3803, train acc 89.630%, test acc 94.180%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.3281
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.2317
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.2054
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.0449
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.0481
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.0273
+epoch 2, skip_num 2666, loss 0.1756, train acc 95.092%, test acc 95.890%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.0490
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.0304
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.1260
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.5070
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.2661
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.1295
+epoch 3, skip_num 3053, loss 0.1231, train acc 96.647%, test acc 96.960%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.1179
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0341
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.2722
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.0211
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.0788
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0254
+epoch 4, skip_num 3318, loss 0.0936, train acc 97.460%, test acc 97.320%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0626
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0163
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.0384
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0184
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.0130
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.0063
+epoch 5, skip_num 3496, loss 0.0743, train acc 98.023%, test acc 97.580%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.0329
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0128
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0451
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0609
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.0195
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.0196
+epoch 6, skip_num 3645, loss 0.0606, train acc 98.407%, test acc 97.830%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0029
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0625
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0092
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.3928
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.0043
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.3673
+epoch 7, skip_num 3709, loss 0.0512, train acc 98.692%, test acc 97.860%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0167
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.0297
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0533
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.0293
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.0056
+****************************************************************************************************
+Iter_num: 4700 Test_acc 98.02 Skip_round: 24879 Comm_round: 22121
+****************************************************************************************************
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.0152
+epoch 8, skip_num 3850, loss 0.0424, train acc 98.973%, test acc 97.860%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0060
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.0028
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0024
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.0184
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0809
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.2775
+epoch 9, skip_num 3950, loss 0.0371, train acc 99.082%, test acc 97.990%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0139
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.0026
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0057
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.0067
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0397
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.0176
+epoch 10, skip_num 4062, loss 0.0312, train acc 99.285%, test acc 98.010%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0175
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.1414
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0067
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0101
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0109
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0278
+epoch 11, skip_num 4112, loss 0.0263, train acc 99.435%, test acc 98.170%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0085
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0129
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0026
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0369
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0019
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0173
+epoch 12, skip_num 4206, loss 0.0223, train acc 99.565%, test acc 98.030%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0010
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0249
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0017
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0566
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0045
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0073
+epoch 13, skip_num 4282, loss 0.0191, train acc 99.632%, test acc 98.030%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0007
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0006
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0038
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0036
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0854
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.0061
+epoch 14, skip_num 4373, loss 0.0162, train acc 99.722%, test acc 98.140%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0018
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0061
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0046
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0164
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.0025
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0049
+epoch 15, skip_num 4457, loss 0.0135, train acc 99.805%, test acc 98.120%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0007
+Epoch: 016/020 | Batch 0200/0600 | Cost: 1.2218
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0038
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0050
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0090
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0011
+epoch 16, skip_num 4527, loss 0.0114, train acc 99.853%, test acc 98.110%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0006
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0029
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0036
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0201
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0163
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0032
+epoch 17, skip_num 4602, loss 0.0105, train acc 99.863%, test acc 98.200%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0054
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0074
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0015
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0117
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0295
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0012
+epoch 18, skip_num 4595, loss 0.0095, train acc 99.867%, test acc 98.160%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0004
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0003
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0192
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0009
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0283
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0003
+epoch 19, skip_num 4705, loss 0.0075, train acc 99.940%, test acc 98.300%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0032
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0090
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0042
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0017
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0212
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0009
+epoch 20, skip_num 4758, loss 0.0067, train acc 99.937%, test acc 98.240%
+Finished.
+LASG  lr:0.005--epoch:20--worker:10--seed:80
+Number_parameter: 4
+Element_parameter: 407050
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.2749
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.3566
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.2311
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.3583
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.1436
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.2208
+epoch 1, skip_num 309, loss 0.3624, train acc 90.233%, test acc 93.940%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.2830
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.2691
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.1853
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.0486
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.0501
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.0335
+epoch 2, skip_num 1048, loss 0.1804, train acc 94.883%, test acc 95.870%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.0357
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.0211
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.1551
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.5056
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.2330
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.1180
+epoch 3, skip_num 1588, loss 0.1293, train acc 96.378%, test acc 96.910%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.1711
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0591
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.3037
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.0184
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.0521
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0183
+epoch 4, skip_num 1945, loss 0.0993, train acc 97.260%, test acc 96.960%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0513
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0198
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.0271
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.0193
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.0109
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.0067
+epoch 5, skip_num 2230, loss 0.0810, train acc 97.742%, test acc 97.340%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.0478
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0097
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0375
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0382
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.0175
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.0118
+epoch 6, skip_num 2488, loss 0.0664, train acc 98.150%, test acc 97.760%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0027
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0560
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0121
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.2838
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.0054
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.4462
+epoch 7, skip_num 2641, loss 0.0562, train acc 98.527%, test acc 97.760%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0140
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.0302
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0253
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.0309
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.0075
+****************************************************************************************************
+Iter_num: 4700 Test_acc 98.06 Skip_round: 14587 Comm_round: 32413
+****************************************************************************************************
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.0124
+epoch 8, skip_num 2808, loss 0.0477, train acc 98.772%, test acc 97.900%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0120
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.0064
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0027
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.0171
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.0289
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.3901
+epoch 9, skip_num 2999, loss 0.0428, train acc 98.858%, test acc 98.030%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0111
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.0031
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0040
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.0135
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0373
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.1796
+epoch 10, skip_num 3088, loss 0.0367, train acc 99.052%, test acc 97.970%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0308
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.1003
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0099
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0195
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0076
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0110
+epoch 11, skip_num 3256, loss 0.0319, train acc 99.205%, test acc 98.250%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0151
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.0126
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0022
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0780
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0010
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0074
+epoch 12, skip_num 3399, loss 0.0266, train acc 99.387%, test acc 98.110%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0013
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0154
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0010
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0736
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0013
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0023
+epoch 13, skip_num 3425, loss 0.0231, train acc 99.513%, test acc 98.120%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0018
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0006
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0026
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0037
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0323
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.0447
+epoch 14, skip_num 3561, loss 0.0203, train acc 99.600%, test acc 98.020%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0037
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0047
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0021
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0558
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.0090
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0030
+epoch 15, skip_num 3684, loss 0.0176, train acc 99.680%, test acc 98.200%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0003
+Epoch: 016/020 | Batch 0200/0600 | Cost: 1.1637
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0022
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0089
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0086
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0002
+epoch 16, skip_num 3783, loss 0.0149, train acc 99.735%, test acc 98.090%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0010
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0029
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0026
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0132
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0085
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0014
+epoch 17, skip_num 3867, loss 0.0132, train acc 99.788%, test acc 98.300%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0030
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0141
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0023
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0067
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0015
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0009
+epoch 18, skip_num 3965, loss 0.0113, train acc 99.862%, test acc 98.370%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0014
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0007
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0013
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0003
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0023
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0029
+epoch 19, skip_num 4002, loss 0.0101, train acc 99.850%, test acc 98.310%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0089
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0089
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0031
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0111
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0027
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0003
+epoch 20, skip_num 4105, loss 0.0088, train acc 99.905%, test acc 98.260%
+Finished.
+Sparse  lr:0.005--h:0.01--epoch:20--worker:10--seed:80
+Number_parameter: 4
+Element_parameter: 407050
+Element_parameter_sparse: 4071
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.5704
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.1355
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.0709
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.0685
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.1974
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.0694
+epoch 1, loss 0.3850, train acc 89.467%, test acc 93.970%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.0531
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.4519
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.0372
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.1081
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.3591
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.0654
+epoch 2, loss 0.1863, train acc 94.742%, test acc 95.720%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.0721
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.0283
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.0307
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.1126
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.0551
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0648
+epoch 3, loss 0.1351, train acc 96.213%, test acc 96.580%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.0778
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0593
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.0186
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.3111
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.1438
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0390
+epoch 4, loss 0.1063, train acc 97.045%, test acc 96.900%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0386
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0144
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.4891
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.3352
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.0499
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.0780
+epoch 5, loss 0.0875, train acc 97.555%, test acc 97.190%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.0632
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0119
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0159
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0093
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.0717
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.0612
+epoch 6, loss 0.0740, train acc 97.930%, test acc 97.480%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0076
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0205
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0014
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.0073
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.0034
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.1692
+epoch 7, loss 0.0633, train acc 98.292%, test acc 97.650%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0060
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.0156
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0039
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.0014
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.2177
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.0035
+epoch 8, loss 0.0552, train acc 98.505%, test acc 97.740%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0041
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.1221
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0202
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.3426
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.3131
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.0444
+epoch 9, loss 0.0488, train acc 98.728%, test acc 97.840%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0061
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.1012
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0073
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.0706
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0146
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.0014
+epoch 10, loss 0.0431, train acc 98.920%, test acc 97.990%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0954
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.0158
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.0884
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0073
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0171
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0080
+epoch 11, loss 0.0383, train acc 99.035%, test acc 97.890%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0189
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.1076
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0433
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0656
+****************************************************************************************************
+Iter_num: 7000 Test_acc 98.02 Comm_round: 70000
+****************************************************************************************************
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0605
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0209
+epoch 12, loss 0.0341, train acc 99.187%, test acc 97.940%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0005
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0319
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0112
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0112
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0292
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0070
+epoch 13, loss 0.0307, train acc 99.263%, test acc 98.060%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0091
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0828
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0466
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0021
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0112
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.0117
+epoch 14, loss 0.0275, train acc 99.373%, test acc 98.080%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0104
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0089
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0058
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0079
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.1558
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0020
+epoch 15, loss 0.0250, train acc 99.473%, test acc 98.150%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0012
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0018
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0063
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0026
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0009
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0122
+epoch 16, loss 0.0225, train acc 99.570%, test acc 98.100%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0434
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0364
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0011
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0343
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0119
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0292
+epoch 17, loss 0.0203, train acc 99.635%, test acc 97.980%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0017
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0087
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0004
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0001
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0037
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0033
+epoch 18, loss 0.0187, train acc 99.685%, test acc 98.230%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0007
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0673
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0018
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0007
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0047
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0018
+epoch 19, loss 0.0169, train acc 99.733%, test acc 98.250%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0024
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0016
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0022
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0653
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0246
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0002
+epoch 20, loss 0.0155, train acc 99.785%, test acc 98.210%
+Finished.
+Dis-SGD  lr:0.005--epoch:20--worker:10--seed:80
+Number_parameter: 4
+Element_parameter: 407050
+Epoch: 001/020 | Batch 0100/0600 | Cost: 0.5454
+Epoch: 001/020 | Batch 0200/0600 | Cost: 0.1584
+Epoch: 001/020 | Batch 0300/0600 | Cost: 0.0805
+Epoch: 001/020 | Batch 0400/0600 | Cost: 0.0862
+Epoch: 001/020 | Batch 0500/0600 | Cost: 0.2018
+Epoch: 001/020 | Batch 0600/0600 | Cost: 0.0625
+epoch 1, loss 0.3626, train acc 90.143%, test acc 93.920%
+Epoch: 002/020 | Batch 0100/0600 | Cost: 0.0504
+Epoch: 002/020 | Batch 0200/0600 | Cost: 0.4346
+Epoch: 002/020 | Batch 0300/0600 | Cost: 0.0424
+Epoch: 002/020 | Batch 0400/0600 | Cost: 0.1104
+Epoch: 002/020 | Batch 0500/0600 | Cost: 0.3698
+Epoch: 002/020 | Batch 0600/0600 | Cost: 0.0605
+epoch 2, loss 0.1827, train acc 94.790%, test acc 95.910%
+Epoch: 003/020 | Batch 0100/0600 | Cost: 0.0734
+Epoch: 003/020 | Batch 0200/0600 | Cost: 0.0268
+Epoch: 003/020 | Batch 0300/0600 | Cost: 0.0318
+Epoch: 003/020 | Batch 0400/0600 | Cost: 0.1106
+Epoch: 003/020 | Batch 0500/0600 | Cost: 0.0505
+Epoch: 003/020 | Batch 0600/0600 | Cost: 0.0635
+epoch 3, loss 0.1324, train acc 96.302%, test acc 96.690%
+Epoch: 004/020 | Batch 0100/0600 | Cost: 0.0848
+Epoch: 004/020 | Batch 0200/0600 | Cost: 0.0496
+Epoch: 004/020 | Batch 0300/0600 | Cost: 0.0252
+Epoch: 004/020 | Batch 0400/0600 | Cost: 0.3194
+Epoch: 004/020 | Batch 0500/0600 | Cost: 0.2405
+Epoch: 004/020 | Batch 0600/0600 | Cost: 0.0423
+epoch 4, loss 0.1048, train acc 97.107%, test acc 96.910%
+Epoch: 005/020 | Batch 0100/0600 | Cost: 0.0410
+Epoch: 005/020 | Batch 0200/0600 | Cost: 0.0152
+Epoch: 005/020 | Batch 0300/0600 | Cost: 0.4165
+Epoch: 005/020 | Batch 0400/0600 | Cost: 0.3193
+Epoch: 005/020 | Batch 0500/0600 | Cost: 0.0474
+Epoch: 005/020 | Batch 0600/0600 | Cost: 0.0914
+epoch 5, loss 0.0859, train acc 97.577%, test acc 97.110%
+Epoch: 006/020 | Batch 0100/0600 | Cost: 0.0535
+Epoch: 006/020 | Batch 0200/0600 | Cost: 0.0107
+Epoch: 006/020 | Batch 0300/0600 | Cost: 0.0093
+Epoch: 006/020 | Batch 0400/0600 | Cost: 0.0078
+Epoch: 006/020 | Batch 0500/0600 | Cost: 0.0837
+Epoch: 006/020 | Batch 0600/0600 | Cost: 0.0545
+epoch 6, loss 0.0729, train acc 97.925%, test acc 97.610%
+Epoch: 007/020 | Batch 0100/0600 | Cost: 0.0067
+Epoch: 007/020 | Batch 0200/0600 | Cost: 0.0199
+Epoch: 007/020 | Batch 0300/0600 | Cost: 0.0014
+Epoch: 007/020 | Batch 0400/0600 | Cost: 0.0062
+Epoch: 007/020 | Batch 0500/0600 | Cost: 0.0028
+Epoch: 007/020 | Batch 0600/0600 | Cost: 0.1343
+epoch 7, loss 0.0624, train acc 98.312%, test acc 97.670%
+Epoch: 008/020 | Batch 0100/0600 | Cost: 0.0062
+Epoch: 008/020 | Batch 0200/0600 | Cost: 0.0168
+Epoch: 008/020 | Batch 0300/0600 | Cost: 0.0035
+Epoch: 008/020 | Batch 0400/0600 | Cost: 0.0012
+Epoch: 008/020 | Batch 0500/0600 | Cost: 0.2268
+Epoch: 008/020 | Batch 0600/0600 | Cost: 0.0030
+epoch 8, loss 0.0546, train acc 98.520%, test acc 97.790%
+Epoch: 009/020 | Batch 0100/0600 | Cost: 0.0031
+Epoch: 009/020 | Batch 0200/0600 | Cost: 0.1323
+Epoch: 009/020 | Batch 0300/0600 | Cost: 0.0157
+Epoch: 009/020 | Batch 0400/0600 | Cost: 0.3155
+Epoch: 009/020 | Batch 0500/0600 | Cost: 0.2871
+Epoch: 009/020 | Batch 0600/0600 | Cost: 0.0438
+epoch 9, loss 0.0480, train acc 98.752%, test acc 97.860%
+Epoch: 010/020 | Batch 0100/0600 | Cost: 0.0061
+Epoch: 010/020 | Batch 0200/0600 | Cost: 0.1024
+Epoch: 010/020 | Batch 0300/0600 | Cost: 0.0077
+Epoch: 010/020 | Batch 0400/0600 | Cost: 0.0672
+Epoch: 010/020 | Batch 0500/0600 | Cost: 0.0107
+****************************************************************************************************
+Iter_num: 5900 Test_acc 98.02 Comm_round: 59000
+****************************************************************************************************
+Epoch: 010/020 | Batch 0600/0600 | Cost: 0.0013
+epoch 10, loss 0.0424, train acc 98.913%, test acc 97.950%
+Epoch: 011/020 | Batch 0100/0600 | Cost: 0.0842
+Epoch: 011/020 | Batch 0200/0600 | Cost: 0.0147
+Epoch: 011/020 | Batch 0300/0600 | Cost: 0.1102
+Epoch: 011/020 | Batch 0400/0600 | Cost: 0.0057
+Epoch: 011/020 | Batch 0500/0600 | Cost: 0.0212
+Epoch: 011/020 | Batch 0600/0600 | Cost: 0.0064
+epoch 11, loss 0.0376, train acc 99.052%, test acc 97.970%
+Epoch: 012/020 | Batch 0100/0600 | Cost: 0.0191
+Epoch: 012/020 | Batch 0200/0600 | Cost: 0.1108
+Epoch: 012/020 | Batch 0300/0600 | Cost: 0.0407
+Epoch: 012/020 | Batch 0400/0600 | Cost: 0.0620
+Epoch: 012/020 | Batch 0500/0600 | Cost: 0.0578
+Epoch: 012/020 | Batch 0600/0600 | Cost: 0.0156
+epoch 12, loss 0.0335, train acc 99.210%, test acc 97.960%
+Epoch: 013/020 | Batch 0100/0600 | Cost: 0.0006
+Epoch: 013/020 | Batch 0200/0600 | Cost: 0.0351
+Epoch: 013/020 | Batch 0300/0600 | Cost: 0.0117
+Epoch: 013/020 | Batch 0400/0600 | Cost: 0.0101
+Epoch: 013/020 | Batch 0500/0600 | Cost: 0.0295
+Epoch: 013/020 | Batch 0600/0600 | Cost: 0.0064
+epoch 13, loss 0.0302, train acc 99.290%, test acc 98.200%
+Epoch: 014/020 | Batch 0100/0600 | Cost: 0.0091
+Epoch: 014/020 | Batch 0200/0600 | Cost: 0.0961
+Epoch: 014/020 | Batch 0300/0600 | Cost: 0.0473
+Epoch: 014/020 | Batch 0400/0600 | Cost: 0.0017
+Epoch: 014/020 | Batch 0500/0600 | Cost: 0.0108
+Epoch: 014/020 | Batch 0600/0600 | Cost: 0.0116
+epoch 14, loss 0.0270, train acc 99.385%, test acc 98.030%
+Epoch: 015/020 | Batch 0100/0600 | Cost: 0.0091
+Epoch: 015/020 | Batch 0200/0600 | Cost: 0.0097
+Epoch: 015/020 | Batch 0300/0600 | Cost: 0.0049
+Epoch: 015/020 | Batch 0400/0600 | Cost: 0.0053
+Epoch: 015/020 | Batch 0500/0600 | Cost: 0.1488
+Epoch: 015/020 | Batch 0600/0600 | Cost: 0.0023
+epoch 15, loss 0.0246, train acc 99.493%, test acc 98.170%
+Epoch: 016/020 | Batch 0100/0600 | Cost: 0.0019
+Epoch: 016/020 | Batch 0200/0600 | Cost: 0.0027
+Epoch: 016/020 | Batch 0300/0600 | Cost: 0.0046
+Epoch: 016/020 | Batch 0400/0600 | Cost: 0.0028
+Epoch: 016/020 | Batch 0500/0600 | Cost: 0.0009
+Epoch: 016/020 | Batch 0600/0600 | Cost: 0.0138
+epoch 16, loss 0.0221, train acc 99.573%, test acc 98.100%
+Epoch: 017/020 | Batch 0100/0600 | Cost: 0.0522
+Epoch: 017/020 | Batch 0200/0600 | Cost: 0.0346
+Epoch: 017/020 | Batch 0300/0600 | Cost: 0.0009
+Epoch: 017/020 | Batch 0400/0600 | Cost: 0.0356
+Epoch: 017/020 | Batch 0500/0600 | Cost: 0.0156
+Epoch: 017/020 | Batch 0600/0600 | Cost: 0.0213
+epoch 17, loss 0.0199, train acc 99.645%, test acc 98.040%
+Epoch: 018/020 | Batch 0100/0600 | Cost: 0.0017
+Epoch: 018/020 | Batch 0200/0600 | Cost: 0.0082
+Epoch: 018/020 | Batch 0300/0600 | Cost: 0.0004
+Epoch: 018/020 | Batch 0400/0600 | Cost: 0.0001
+Epoch: 018/020 | Batch 0500/0600 | Cost: 0.0027
+Epoch: 018/020 | Batch 0600/0600 | Cost: 0.0024
+epoch 18, loss 0.0184, train acc 99.700%, test acc 98.250%
+Epoch: 019/020 | Batch 0100/0600 | Cost: 0.0006
+Epoch: 019/020 | Batch 0200/0600 | Cost: 0.0619
+Epoch: 019/020 | Batch 0300/0600 | Cost: 0.0017
+Epoch: 019/020 | Batch 0400/0600 | Cost: 0.0007
+Epoch: 019/020 | Batch 0500/0600 | Cost: 0.0053
+Epoch: 019/020 | Batch 0600/0600 | Cost: 0.0014
+epoch 19, loss 0.0166, train acc 99.748%, test acc 98.260%
+Epoch: 020/020 | Batch 0100/0600 | Cost: 0.0022
+Epoch: 020/020 | Batch 0200/0600 | Cost: 0.0020
+Epoch: 020/020 | Batch 0300/0600 | Cost: 0.0026
+Epoch: 020/020 | Batch 0400/0600 | Cost: 0.0608
+Epoch: 020/020 | Batch 0500/0600 | Cost: 0.0231
+Epoch: 020/020 | Batch 0600/0600 | Cost: 0.0002
+epoch 20, loss 0.0153, train acc 99.793%, test acc 98.270%
+Finished.
